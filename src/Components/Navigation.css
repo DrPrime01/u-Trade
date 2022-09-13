@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    height: auto;
+    width: auto;
+    margin: 22px 42px;
+}
+
+.logo-container {
+    margin-right: 9em;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.nav-list-item {
+    padding: 1.5rem 2rem;
+    margin-right: 3rem;
+    color: white;
+    font-size: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
